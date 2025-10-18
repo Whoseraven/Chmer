@@ -256,12 +256,8 @@ async def cmd_start(message: types.Message):
     ])
     
     welcome_text = """
-╔════════════════════╗
-║  ᴘʀᴏᴏғs - ᴄᴀʀᴅ ᴄʜᴇᴄᴋᴇʀ  ║
-╚════════════════════╝
 
-🎯 **Fast & Reliable Card Checking**
-
+Aᴅᴠᴀɴᴄᴇ Sᴛʀɪᴘ 1$ Cʜᴇᴄᴋᴇʀ
 ━━━━━━━━━━━━━━━━━━━━
 📌 **SUPPORTED FORMATS:**
 
